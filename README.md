@@ -192,6 +192,23 @@ http://localhost/karu-marketplace/
 
 ---
 
+## Group Project — Development Team
+
+| Name               | Admission Number | Role                              |
+|--------------------|------------------|-----------------------------------|
+| Stanley Makanga    | P101/4437G/23    | Project Lead & Full-Stack Developer |
+| Benard Ondari      | P101/3745P/24    | Frontend Developer & UI Designer  |
+| Clement Mwangi     | P101/4789G/24    | Backend Developer & Database Admin |
+| Mwangi Simon       | P101/3727G/24    | Frontend Developer                |
+| Cornelius Musyoka  | P101/4766G/24    | Backend Developer                 |
+| Vincent Maithya    | P101/4915G/24    | System Analyst & Tester           |
+| Cyprian Omolo      | P101/3757G/24    | Database Designer                 |
+| Stephanie Mucheke  | P101/3712P/24    | Documentation & Research          |
+| Newtone Atamba     | P101/4718G/24    | Security & Authentication         |
+| Kelvin Mungai      | P101/3687G/24    | QA Tester & Presenter             |
+
+---
+
 ## Payment Model
 
 KarU Marketplace does not process online payments.
