@@ -2,7 +2,7 @@
 
 **Campus Student Marketplace System**
 Karatina University — School of Computing and Informatics
-Web Design & Development — Group 10 Project
+Web Design & Development — Group Project
 
 ---
 
@@ -154,8 +154,8 @@ http://localhost/karu-marketplace/
 
 | Field    | Value               |
 |----------|---------------------|
-| Email    | admin@karu.ac.ke    |
-| Password | password            |
+| Email    |     |
+| Password |     |
 
 **Important:** Change the admin password immediately after first login via Admin > Settings.
 
@@ -200,21 +200,5 @@ This protects students from scams and fake sellers.
 
 ---
 
-## Group 10 — Development Team
 
-| Name             | Admission Number      | Role                             |
-|------------------|-----------------------|----------------------------------|
-| Stanley Mwangi   | SCT-1-0001-1/2023    | Project Lead & Full-Stack Dev    |
-| Faith Wanjiku    | SCT-1-0002-1/2023    | Frontend Developer & UI Designer |
-| Brian Kamau      | SCT-1-0003-1/2023    | Backend Developer & DB Admin     |
-| Grace Njeri      | SCT-1-0004-1/2023    | Frontend Developer               |
-| Kevin Odhiambo   | SCT-1-0005-1/2023    | Backend Developer                |
-| Mercy Akinyi     | SCT-1-0006-1/2023    | System Analyst & Tester          |
-| John Mutua       | SCT-1-0007-1/2023    | Database Designer                |
-| Alice Wairimu    | SCT-1-0008-1/2023    | Documentation & Research         |
-| Peter Kipchoge   | SCT-1-0009-1/2023    | Security & Authentication        |
-| Diana Chebet     | SCT-1-0010-1/2023    | QA Tester & Presenter            |
-
----
-
-Karatina University — Web Design & Development — Group 10 — 2025
+Karatina University — Web Design & Development — Group Project — 2026
