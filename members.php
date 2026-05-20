@@ -6,15 +6,19 @@ $user = get_user();
 
 $members = [
     ['name' => 'Stanley Makanga', 'admission' => 'P101/4437G/23', 'role' => 'Project Lead & Full-Stack Developer', 'initials' => 'MS', 'color' => '#2563eb'],
-    ['name' => 'Benard Ondari', 'admission' => 'P101/3745P/24', 'role' => 'Frontend Developer & UI Designer', 'initials' => 'BO', 'color' => '#16a34a'],
-    ['name' => 'Clement Mwangi', 'admission' => 'P101/4789G/24', 'role' => 'Backend Developer & Database Admin', 'initials' => 'CM', 'color' => '#7c3aed'],
-    ['name' => 'Mwangi Simon', 'admission' => 'Mwangi Simon P101/3727G/24', 'role' => 'Frontend Developer', 'initials' => 'MS', 'color' => '#db2777'],
-    ['name' => 'Cornelius Musyoka', 'admission' => 'Cornelius musyoka P101/4766G/24', 'role' => 'Backend Developer', 'initials' => 'MC', 'color' => '#059669'],
+    ['name' => 'Benard Ondari', 'admission' => 'P101/3745G/24', 'role' => 'Frontend Developer', 'initials' => 'BO', 'color' => '#16a34a'],
+    ['name' => 'Clement Mwangi', 'admission' => 'P101/4789G/24', 'role' => 'Backend Developer', 'initials' => 'CM', 'color' => '#7c3aed'],
+    ['name' => 'Mwangi Simon', 'admission' => 'P101/3727G/24', 'role' => 'Frontend Developer', 'initials' => 'MS', 'color' => '#db2777'],
+    ['name' => 'Cornelius Musyoka', 'admission' => 'P101/4766G/24', 'role' => 'Backend Developer', 'initials' => 'MC', 'color' => '#059669'],
     ['name' => 'Vincent Maithya', 'admission' => 'P101/4915G/24', 'role' => 'System Analyst & Tester', 'initials' => 'VM', 'color' => '#d97706'],
     ['name' => 'Cyprian Omolo', 'admission' => 'P101/3757G/24', 'role' => 'Database Designer', 'initials' => 'CO', 'color' => '#0891b2'],
-    ['name' => 'Stephanie Mucheke', 'admission' => 'P101/3712P/24', 'role' => 'Documentation & Research', 'initials' => 'SM', 'color' => '#dc2626'],
+    ['name' => 'Stephanie Mucheke', 'admission' => 'P101/3712G/24', 'role' => 'Documentation & Research', 'initials' => 'SM', 'color' => '#dc2626'],
     ['name' => 'Newtone Atamba', 'admission' => 'P101/4718G/24', 'role' => 'Security & Authentication', 'initials' => 'NA', 'color' => '#7c3aed'],
-    ['name' => 'Kelvin Mungai', 'admission' => 'P101/3687G/24', 'role' => 'QA Tester & Presenter', 'initials' => 'KM', 'color' => '#0f766e'],
+    ['name' => 'Boniface Kaniu', 'admission' => 'P101/4910G/24', 'role' => 'Backend Developer', 'initials' => 'BK', 'color' => '#ff3aed'],
+    ['name' => 'Kelvin Mungai', 'admission' => 'P101/3687G/24', 'role' => 'QA Tester', 'initials' => 'KM', 'color' => '#0f766e'],
+    [ 'name' => 'Stacey Chelagat', 'admission' => 'P101/4383G/23', 'role' => 'Backups and Recovery',  'initials' => 'SC', 'color' => '#052646'],
+    [ 'name' => 'Samuel Mwangi', 'admission' => 'P101/4578G/24', 'role' => 'UI Designer',  'initials' => 'SM', 'color' => '#ff4646'],
+    ['name' => 'Alvin Kipchumba', 'admission' => 'P101/4909G/24', 'role' => 'Database Admin', 'initials' => 'AL', 'color' => '#dd1098'],
 ];
 
 require_once 'includes/header.php';
