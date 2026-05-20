@@ -206,6 +206,11 @@ http://localhost/karu-marketplace/
 | Stephanie Mucheke  | P101/3712P/24    | Documentation & Research          |
 | Newtone Atamba     | P101/4718G/24    | Security & Authentication         |
 | Kelvin Mungai      | P101/3687G/24    | QA Tester & Presenter             |
+| Stacey Chelagat    | P101/4383G/23    | Backups and Recovery              |
+| Boniface Kaniu     | P101/4910G/24    | Backend Developer                 |
+| Samuel Mwangi      | P101/4578G/24    | UI Designer                       |
+| Alvin Kipchumba    | P101/4909G/24    | Database Admin                    |
+
 
 ---
 
@@ -219,3 +224,9 @@ This protects students from scams and fake sellers.
 
 
 Karatina University — Web Design & Development — Group Project — 2026
+
+
+---
+## Live Website
+
+Visit the website here: [Campus Marketplace](https://karu-marketplace.kesug.com/)
